@@ -63,3 +63,8 @@ h1 {
 #logo {
     width: 40%;
 }
+#contact {
+    font-size: 20px;
+    padding-left: 110px;
+    padding-right: 110px;
+}
